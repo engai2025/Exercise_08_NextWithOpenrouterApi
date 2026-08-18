@@ -1,6 +1,5 @@
-// app/inngest/client.ts
 import { Inngest } from "inngest";
 
 export const inngest = new Inngest({
-  id: "ai-agents" // Unique identifier for your app
+  id: "ai-agents",
 });
